@@ -1,0 +1,50 @@
+.bg{ 
+    background: url('https://walexbiznig.com/fileshare/wl/?id=Pt26KQ6XepoDVyE53FXeiNa3D0SyWyFt&fmode=open') no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size:100%;
+
+}
+.bg2{ 
+    background: url('https://walexbiznig.com/fileshare/wl/?id=suoTXr7ZcDuoQ9s9Z1rlQTqCjuAqhPRA&fmode=open') no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size:100%;
+}
+.form-container{
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    margin-top: 20vh;
+
+}
+.bg-grey{
+    background-color:#eae0e0;
+    border: #eae0e0;
+    padding: 30px;
+    position: relative;
+    right: -20;
+}
+.bg-grey2{
+    background-color:#eae0e0;
+    border: #eae0e0;
+    padding: 30px;
+    position: relative;
+    right: -39px; 
+}
+.bg-grey3{
+    background-color:#eae0e0;
+    border: #eae0e0;
+    padding: 30px;
+    position: relative;
+    right: -40px; 
+}
+.bg-grey4{
+    background-color:#eae0e0;
+    border: #eae0e0;
+    padding: 30px;
+    position: relative;
+    right: -390px; 
+    bottom: 250px;
+}
